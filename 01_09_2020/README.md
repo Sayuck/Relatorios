@@ -11,6 +11,7 @@
 - Disciplinas de Engenharia de Software
 - Ciclos de Vida de Engenharia de Software
 - Processos de Engenharia de Software
+- Reunião com grupo do projeto
 
 ### Resumo:
 Fiz reunião com meu grupo e debatemos sobre os temas aboradados e como iremos 
